@@ -1,6 +1,6 @@
 {
   "name": "generator-nm-bsj",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Scaffold out a node module",
   "license": "MIT",
   "repository": "bassettsj/generator-nm-bsj",
